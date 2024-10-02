@@ -1,5 +1,3 @@
-# uda-airbnb-project-Seattle Airbnb Data
-
 # Seattle Airbnb Data Analysis
 Analyzed Seattle Airbnb listing Dataset 
 Assessed guest sentiment using Python, visualization with Seaborn and Wordcloud 
