@@ -1,4 +1,4 @@
-<img src="Seattle.jpg" style ="width: 1000px;"/>
+<img src="Seattle.jpg" style ="width: 5000px;"/>
 
 # Seattle Airbnb Data Analysis
 Analyzed Seattle Airbnb listing Dataset 
