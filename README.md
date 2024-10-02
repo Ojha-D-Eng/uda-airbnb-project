@@ -26,7 +26,7 @@ The project was implemented using Python 3.0. Libraries used :
 
 1. How does the pricing increase or decrease by season?
 2. What is the peak season in Seattle?
-3.How does the pricing increase or decrease by neighborhood?
+3. How does the pricing increase or decrease by neighborhood?
 4. Which ones are the priciest neighborhoods in Seattle?
 5. How does property types within neighborhoods impact price for the most expensive neighborhoods and most common property types?
 6. Can we predict a price for a given listing?
