@@ -38,7 +38,7 @@ The Jupyter notebook showcases the analysis done in order to explore the dataset
 
 For reference an HTML version of the notebook is also available.
 
-Lastly, the seattle folder contains the dataset from Kaggle (https://www.kaggle.com/airbnb/seattle). It contains 3 files:
+Lastly, the Data folder contains the dataset from Kaggle (https://www.kaggle.com/airbnb/seattle). It contains 3 files:
 
 calendar.csv: calendar availability of listings and price
 listings.csv: information about all the available listings
