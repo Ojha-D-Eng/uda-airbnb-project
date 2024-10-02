@@ -1,3 +1,5 @@
+<img src="Seattle.jpg" style ="width: 1000px;"/>
+
 # Seattle Airbnb Data Analysis
 Analyzed Seattle Airbnb listing Dataset 
 Assessed guest sentiment using Python, visualization with Seaborn and Wordcloud 
