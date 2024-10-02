@@ -1,5 +1,7 @@
 <img src="Seattle.jpg" style ="width: 5000px;"/>
+
 ## Introduction
+
 In the rapidly evolving landscape of the sharing economy, Airbnb has emerged as a prominent platform for short-term rental accommodations worldwide. With its diverse range of listings, from cozy apartments to luxurious villas, Airbnb provides an invaluable data set that reflects various aspects of the hospitality industry. Analyzing Airbnb data offers insights into key trends such as pricing strategies, occupancy rates, guest preferences, and geographic demand. This analysis aims to leverage Airbnb’s extensive data to uncover patterns and actionable insights that can benefit hosts, travelers, and policymakers. Through a comprehensive examination of variables like property types, booking behaviors, and reviews, we aim to understand the drivers behind successful listings, regional pricing fluctuations, and customer satisfaction metrics. By exploring these dimensions, we can better understand the factors that contribute to market success and areas where hosts or the platform may need improvement.
 
 This study will dive into the Airbnb dataset to extract meaningful insights, highlight significant trends, and suggest data-driven strategies for optimizing both host offerings and guest experiences.
