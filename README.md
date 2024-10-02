@@ -70,4 +70,4 @@ Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the 
 
 ## Blogpost
 
-The link for the Blog is
+The link for the Blog is https://medium.com/@rohit5206/seattle-property-data-analysis-df3277a95ef9
