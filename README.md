@@ -1,7 +1,7 @@
 <img src="Seattle.jpg" style ="width: 5000px;"/>
 
 ## Motivation
-This project is part of the requirement for Data Scientist Nanodegree on Udacity to follow the CRISP-DM (Cross-industry standard process for data mining) of [Seattle Airbnb Dataset on Kaggle](kaggle.com/airbnb/seattle/data). The project aims to analyze few aspects of the Airbnb renting scene in Seattle such as: the effect of location on price, occupancy pattern, earnings and reviews by host, and what guests say about their experience, etc. 
+This project is part of the requirement for Data Scientist Nanodegree on Udacity. The project aims to analyze few aspects of the Airbnb renting scene in Seattle such as: the effect of location, season and property type on price. 
 
 
 ## Table of Contents
